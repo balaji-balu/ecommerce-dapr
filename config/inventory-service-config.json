@@ -1,0 +1,5 @@
+{
+    "app-id": "inventory-service",
+    "app-port": "8084",
+    "dapr-http-port": "3504"
+  }

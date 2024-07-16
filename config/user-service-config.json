@@ -1,0 +1,6 @@
+{
+    "app-id": "user-service",
+    "app-port": "8080",
+    "dapr-http-port": "3500"
+}
+  
